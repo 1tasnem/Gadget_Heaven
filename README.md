@@ -1,6 +1,10 @@
  Gadget Heaven
 Gadget Heaven is a modern gadget marketplace where users can explore, sort, and purchase the latest tech products. This single-page application demonstrates efficient state management, routing, and dynamic UI updates using React.
+
+
 LIVE LINK:gadgetheavenaccessories.netlify.app
+
+
 ✨ Key Features
 🛒 Add to Cart – Easily add your favorite products to the cart.
 
